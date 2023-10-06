@@ -53,10 +53,10 @@
 
 
 ## Output:
+![empdnew1](https://github.com/vasundrasriravi/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393983/06224f1d-640d-4eb3-afdd-8032393d6972)
 
-
-### Name:
-### Register Number: 
+### Name:VASUNDRA SRI R
+### Register Number:212222230168 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
